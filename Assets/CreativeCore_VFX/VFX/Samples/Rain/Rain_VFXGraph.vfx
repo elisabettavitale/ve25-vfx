@@ -19,8 +19,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4077
     y: 843
-    width: 426
-    height: 2161
+    width: 427
+    height: 2169
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1438,7 +1438,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":0.5,"y":-2.0,"z":1.0}'
+      m_SerializableObject: '{"x":0.5,"y":-4.0,"z":1.0}'
     m_Space: -1
   m_Property:
     name: Scale
